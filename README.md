@@ -1,5 +1,5 @@
 # Data Science Projects
-A collection of Data Science projects in Jupyter notebooks. I mainly use Python, PostgreSQL and Scikit-learn to showcase the many different skills of a Data Scientist. I have a backlog of about 10 projects which will be continually released and uploaded here, check this space often!
+A collection of my Data Science projects in Jupyter notebooks. I mainly use Python, PostgreSQL and Scikit-learn to showcase the many different skills of a Data Scientist. I have a backlog of about 10 projects which will be continually released and uploaded here, check this space often!
 
 Author: Matthew Wilfred Ho
 
@@ -14,4 +14,4 @@ I set out to answer this question for Hong Kong Jockey Club races, which brought
 
 
 ## More Projects
-- [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis, Problem Formulation, using Python, pandas and Tableau
+- [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis and Problem Formulation, using Python, Pandas and Tableau
