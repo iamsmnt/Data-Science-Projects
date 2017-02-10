@@ -12,6 +12,8 @@ My blog on Data Science & Deep Learning: [https://matthewwilfred.github.io](http
 
 I set out to answer this question for Hong Kong Jockey Club races, which brought in a whopping $107 billion HKD in turnover last year. Using a dataset of 6349 historical races from Kaggle, I built, evaluated and tested a variety of Machine Learning models to predict horse race wins, such as Logistic Regression and Random Forests for classification. Then I compared it to the bookies' odds to see if my prediction models could win money. Conclusion: beating the house is hard, but I uncovered some interesting insights in the world of horse racing. You can also find my slide deck hosted [here](bit.ly/2iyFvHP).
 
+## Kaggle Competition
+*[Lung Cancer Detection - 2017 Kaggle Data Science Bowl](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Kaggle Competition Part 1 - Image Preprocessing.ipynb)* is the first part of my Kaggle team's project to use Machine Learning as well as Deep Learning (more specifically Convolutional Neural Networks for image recognition), to design a classification model that helps better diagnose lung cancer from low dose CT scan images. This is the first part of a series of notebooks, which details our image preprocessing workflow.
 
 ## More Projects
 - [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis and Problem Formulation, using Python, Pandas and Tableau
