@@ -17,3 +17,4 @@ I set out to answer this question for Hong Kong Jockey Club races, which brought
 
 ## More Projects
 - [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis and Problem Formulation, using Python, Pandas and Tableau
+- [NumPy Neural Network](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Neural%20Network_Numpy.ipynb): Deep Learning, Exploratory Data Analysis, Time Series, using Python, Numpy, Pandas
