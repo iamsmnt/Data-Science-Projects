@@ -16,5 +16,6 @@ I set out to answer this question for Hong Kong Jockey Club races, which brought
 *[Lung Cancer Detection - 2017 Kaggle Data Science Bowl](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Kaggle Competition Part 1 - Image Preprocessing.ipynb)* is the first part of my Kaggle team's project to use Machine Learning as well as Deep Learning (more specifically Convolutional Neural Networks for image recognition), to design a classification model that helps better diagnose lung cancer from low dose CT scan images. This is the first part of a series of notebooks, which details our image preprocessing workflow.
 
 ## More Projects
-- [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis and Problem Formulation, using Python, Pandas and Tableau
+- [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis, Visualisation and Problem Formulation, using Python, Pandas and Tableau
 - [NumPy Neural Network](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Neural%20Network_Numpy.ipynb): Deep Learning, Exploratory Data Analysis, Time Series, using Python, Numpy, Pandas
+- [Beer, Wine and Data Science](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Beer.ipynb): Regressions, Business Objectives, using Python, matplotlib and Seaborn
