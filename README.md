@@ -15,6 +15,8 @@ I set out to answer this question for Hong Kong Jockey Club races, which brought
 ## Kaggle Competition
 *[Lung Cancer Detection - 2017 Kaggle Data Science Bowl](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Kaggle Competition Part 1 - Image Preprocessing.ipynb)* is the first part of my Kaggle team's project to use Machine Learning as well as Deep Learning (more specifically Convolutional Neural Networks for image recognition), to design a classification model that helps better diagnose lung cancer from low dose CT scan images. This is the first part of a series of notebooks, which details our image preprocessing workflow.
 
+*[3D Convolutional Neural Networks](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Kaggle Competition Part 2 - 3D Convolutional Neural Network.ipynb)* is the second part of our project. Here we use Keras with a Tensorflow backend to prototype a 3D ConvNet and verify that our image preprocessing workflow is valid by using the data from one patient. Read through for a discussion of the architecture of our network!
+
 ## More Projects
 - [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis, Visualisation and Problem Formulation, using Python, Pandas and Tableau
 - [NumPy Neural Network](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Neural%20Network_Numpy.ipynb): Deep Learning, Exploratory Data Analysis, Time Series, using Python, Numpy, Pandas
