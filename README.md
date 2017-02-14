@@ -8,7 +8,7 @@ Email: matthewwilfred@gmail.com  |  Twitter: [@Matt\_Du\_Jour](https://twitter.c
 My blog on Data Science & Deep Learning: [https://matthewwilfred.github.io](https://matthewwilfred.github.io)
 
 ## Capstone Project
-*[Saddle Up! Machine Learning for Fun and Profit](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Saddle%20Up.ipynb)* is my Capstone Project showcasing the entire Data Science project workflow. The problem statement of the project: *Can you win against the bookies in horse race betting?*
+*[Saddle Up! Machine Learning for Fun and Profit](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Capstone - Saddle%20Up.ipynb)* is my Capstone Project showcasing the entire Data Science project workflow. The problem statement of the project: *Can you win against the bookies in horse race betting?*
 
 I set out to answer this question for Hong Kong Jockey Club races, which brought in a whopping $107 billion HKD in turnover last year. Using a dataset of 6349 historical races from Kaggle, I built, evaluated and tested a variety of Machine Learning models to predict horse race wins, such as Logistic Regression and Random Forests for classification. Then I compared it to the bookies' odds to see if my prediction models could win money. Conclusion: beating the house is hard, but I uncovered some interesting insights in the world of horse racing. You can also find my slide deck hosted [here](bit.ly/2iyFvHP).
 
@@ -21,3 +21,5 @@ I set out to answer this question for Hong Kong Jockey Club races, which brought
 - [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis, Visualisation and Problem Formulation, using Python, Pandas and Tableau
 - [NumPy Neural Network](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Neural%20Network_Numpy.ipynb): Deep Learning, Exploratory Data Analysis, Time Series, using Python, Numpy, Pandas
 - [Beer, Wine and Data Science](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Beer.ipynb): Regressions, Business Objectives, using Python, matplotlib and Seaborn
+- [Clustering Postcodes](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Clustering Postcodes.ipynb): Clustering algorithms, KMeans, Hierarchical, DBSCAN
+- [Bayes and Polls](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Bayes and Polls.ipynb): Bayesian statistics, SciPy
