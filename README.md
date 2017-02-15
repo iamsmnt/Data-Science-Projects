@@ -21,6 +21,7 @@ I set out to answer this question for Hong Kong Jockey Club races, which brought
 - [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis, Visualisation and Problem Formulation, using Python, Pandas and Tableau
 - [NumPy Neural Network](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Neural%20Network_Numpy.ipynb): Deep Learning, Exploratory Data Analysis, Time Series, using Python, Numpy, Pandas
 - [Bayes and Polls](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Bayes and Polls.ipynb): Bayesian statistics, SciPy, and politics
+- [Hierarchical Clustering](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Hierarchical clustering.ipynb): Principal Components Analysis, Hierarchical Clustering
 - [Beer, Wine and Data Science](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Beer.ipynb): Regressions, Business Objectives, using Python, matplotlib and Seaborn
 - [KMeans](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Beer.ipynb): Showcasing KMeans on the Wisconsin breast cancer dataset
 - [Clustering Postcodes](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Clustering Postcodes.ipynb): Clustering algorithms, KMeans, Hierarchical, DBSCAN
