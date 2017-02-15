@@ -46,6 +46,10 @@ coverage.xml
 *,cover
 .hypothesis/
 
+# Custom
+.gitignore
+.DS_Store
+
 # Translations
 *.mo
 *.pot
