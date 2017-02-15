@@ -1,10 +1,10 @@
 # Data Science Projects
-A collection of my Data Science projects in Jupyter notebooks. I mainly use Python, PostgreSQL and Scikit-learn to showcase the many different skills of a Data Scientist. I have a backlog of about 10 projects which will be continually released and uploaded here, check this space often!
+A collection of my Data Science projects in Jupyter notebooks. I mainly use Python, PostgreSQL and Tableau to showcase the many different skills of a Data Scientist.
 
 Author: Matthew Wilfred Ho
 
-Email: matthewwilfred@gmail.com  |  Twitter: [@Matt\_Du\_Jour](https://twitter.com/Matt_du_Jour) | LinkedIn: [https://www.linkedin.com/in/matthewwilfred](https://www.linkedin.com/in/matthewwilfred)
-
+Email: matthewwilfred@gmail.com
+LinkedIn: [https://www.linkedin.com/in/matthewwilfred](https://www.linkedin.com/in/matthewwilfred)
 My blog on Data Science & Deep Learning: [https://matthewwilfred.github.io](https://matthewwilfred.github.io)
 
 ## Capstone Project
@@ -16,6 +16,8 @@ I set out to answer this question for Hong Kong Jockey Club races, which brought
 *[Lung Cancer Detection - 2017 Kaggle Data Science Bowl](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Kaggle Competition Part 1 - Image Preprocessing.ipynb)* is the first part of my Kaggle team's project to use Machine Learning as well as Deep Learning (more specifically Convolutional Neural Networks for image recognition), to design a classification model that helps better diagnose lung cancer from low dose CT scan images. This is the first part of a series of notebooks, which details our image preprocessing workflow.
 
 *[3D Convolutional Neural Networks](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Kaggle Competition Part 2 - 3D Convolutional Neural Network.ipynb)* is the second part of our project. Here we use Keras with a Tensorflow backend to prototype a 3D ConvNet and verify that our image preprocessing workflow is valid by using the data from one patient. Read through for a discussion of the architecture of our network!
+
+
 
 ## More Projects
 - [Top Charts](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/Top%20Charts.ipynb): Exploratory Data Analysis, Visualisation and Problem Formulation, using Python, Pandas and Tableau
