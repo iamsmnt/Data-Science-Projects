@@ -4,7 +4,9 @@ A collection of my Data Science projects in Jupyter notebooks. I mainly use Pyth
 Author: Matthew Wilfred Ho
 
 Email: matthewwilfred@gmail.com
+
 LinkedIn: [https://www.linkedin.com/in/matthewwilfred](https://www.linkedin.com/in/matthewwilfred)
+
 My blog on Data Science & Deep Learning: [https://matthewwilfred.github.io](https://matthewwilfred.github.io)
 
 ## Capstone Project
